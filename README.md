@@ -40,7 +40,6 @@
 
 ###
 
-###<img align="left" height="146" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpGMd2lgvwISWjUZbuv8QIGOYCJy5Cjvik9wC5KKTEJFtUGEez"  />
 
 ###
 
